@@ -1,0 +1,17 @@
+season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2019,4,BAK,False,False,False,False,False,bottas,Finnish,mercedes,1,1,62,1,2,130,3,1,0.0,29
+2019,4,BAK,False,False,False,False,False,hamilton,British,mercedes,2,2,68,2,1,130,3,1,0.059,34
+2019,4,BAK,False,False,False,False,False,vettel,German,ferrari,3,3,37,0,4,73,0,2,0.302,31
+2019,4,BAK,False,False,False,False,False,max_verstappen,Dutch,red_bull,4,4,39,0,3,52,0,3,0.574,21
+2019,4,BAK,False,False,False,False,False,perez,Mexican,racing_point,5,6,5,0,12,7,0,8,1.098,29
+2019,4,BAK,False,False,False,False,False,kvyat,Russian,toro_rosso,6,19,1,0,15,4,0,9,1.186,25
+2019,4,BAK,False,False,False,False,False,norris,British,mclaren,7,8,8,0,8,8,0,7,1.391,19
+2019,4,BAK,False,False,False,False,False,sainz,Spanish,mclaren,9,7,0,0,18,8,0,7,1.903,24
+2019,4,BAK,False,False,False,False,False,ricciardo,Australian,renault,10,20,6,0,11,12,0,4,1.982,29
+2019,4,BAK,False,False,False,False,False,albon,Thai,toro_rosso,11,11,3,0,13,4,0,9,1.999,23
+2019,4,BAK,False,False,False,False,False,kevin_magnussen,Danish,haas,12,13,8,0,9,8,0,6,2.204,26
+2019,4,BAK,False,False,False,False,False,stroll,Canadian,racing_point,13,9,2,0,14,7,0,8,2.135,20
+2019,4,BAK,False,False,False,False,False,grosjean,French,haas,14,18,0,0,17,8,0,6,2.912,33
+2019,4,BAK,False,False,False,False,False,hulkenberg,German,renault,15,14,6,0,10,12,0,4,2.932,31
+2019,4,BAK,False,False,False,False,False,russell,British,williams,16,15,0,0,19,0,0,10,4.567,21
+2019,4,BAK,False,False,False,False,False,giovinazzi,Italian,alfa,17,12,0,0,16,12,0,5,1.929,25

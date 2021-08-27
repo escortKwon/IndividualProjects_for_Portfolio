@@ -1,0 +1,21 @@
+season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2018,3,shanghai,False,False,False,False,False,vettel,German,ferrari,1,8,50,2,1,65,2,1,0.0,30
+2018,3,shanghai,False,False,False,False,False,raikkonen,Finnish,ferrari,2,3,15,0,5,65,2,1,0.087,38
+2018,3,shanghai,False,False,False,False,False,bottas,Finnish,mercedes,3,2,22,0,3,55,0,2,0.53,28
+2018,3,shanghai,False,False,False,False,False,hamilton,British,mercedes,4,4,33,0,2,55,0,2,0.58,33
+2018,3,shanghai,False,False,False,False,False,max_verstappen,Dutch,red_bull,5,5,8,0,10,20,0,4,0.701,20
+2018,3,shanghai,False,False,False,False,False,ricciardo,Australian,red_bull,6,1,12,0,8,20,0,4,0.853,28
+2018,3,shanghai,False,False,False,False,False,hulkenberg,German,renault,7,6,14,0,6,15,0,5,1.437,30
+2018,3,shanghai,False,False,False,False,False,perez,Mexican,force_india,8,12,0,0,15,1,0,9,1.663,28
+2018,3,shanghai,False,False,False,False,False,sainz,Spanish,renault,9,9,1,0,13,15,0,5,1.724,23
+2018,3,shanghai,False,False,False,False,False,grosjean,French,haas,10,17,0,0,17,10,0,7,1.76,31
+2018,3,shanghai,False,False,False,False,False,kevin_magnussen,Danish,haas,11,10,10,0,9,10,0,7,1.891,25
+2018,3,shanghai,False,False,False,False,False,ocon,French,force_india,12,11,1,0,14,1,0,9,1.962,21
+2018,3,shanghai,False,False,False,False,False,alonso,Spanish,mclaren,13,7,16,0,4,22,0,3,2.137,36
+2018,3,shanghai,False,False,False,False,False,vandoorne,Belgian,mclaren,14,13,6,0,11,22,0,3,2.41,26
+2018,3,shanghai,False,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,15,20,0,0,19,12,0,6,2.7,28
+2018,3,shanghai,False,False,False,False,False,sirotkin,Russian,williams,16,15,0,0,20,0,0,10,2.967,22
+2018,3,shanghai,False,False,False,False,False,gasly,French,toro_rosso,17,18,12,0,7,12,0,6,3.006,22
+2018,3,shanghai,False,False,False,False,False,stroll,Canadian,williams,18,14,0,0,18,0,0,10,3.19,19
+2018,3,shanghai,False,False,False,False,False,leclerc,Monegasque,sauber,19,19,0,0,16,2,0,8,3.359,20
+2018,3,shanghai,False,False,False,False,False,ericsson,Swedish,sauber,20,16,2,0,12,2,0,8,3.819,27

@@ -1,0 +1,20 @@
+season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2018,1,albert_park,True,False,False,False,False,hamilton,British,mercedes,1,2,0,0,0,0,0,0,0.0,33
+2018,1,albert_park,True,False,False,False,False,raikkonen,Finnish,ferrari,2,3,0,0,0,0,0,0,0.664,38
+2018,1,albert_park,True,False,False,False,False,vettel,German,ferrari,3,1,0,0,0,0,0,0,0.674,30
+2018,1,albert_park,True,False,False,False,False,max_verstappen,Dutch,red_bull,4,6,0,0,0,0,0,0,0.715,20
+2018,1,albert_park,True,False,False,False,False,kevin_magnussen,Danish,haas,5,17,0,0,0,0,0,0,2.023,25
+2018,1,albert_park,True,False,False,False,False,grosjean,French,haas,6,16,0,0,0,0,0,0,2.175,31
+2018,1,albert_park,True,False,False,False,False,hulkenberg,German,renault,7,7,0,0,0,0,0,0,2.368,30
+2018,1,albert_park,True,False,False,False,False,ricciardo,Australian,red_bull,8,4,0,0,0,0,0,0,0.988,28
+2018,1,albert_park,True,False,False,False,False,sainz,Spanish,renault,9,10,0,0,0,0,0,0,2.413,23
+2018,1,albert_park,True,False,False,False,False,alonso,Spanish,mclaren,10,5,0,0,0,0,0,0,2.528,36
+2018,1,albert_park,True,False,False,False,False,vandoorne,Belgian,mclaren,11,9,0,0,0,0,0,0,2.689,25
+2018,1,albert_park,True,False,False,False,False,perez,Mexican,force_india,12,11,0,0,0,0,0,0,2.841,28
+2018,1,albert_park,True,False,False,False,False,stroll,Canadian,williams,13,14,0,0,0,0,0,0,3.066,19
+2018,1,albert_park,True,False,False,False,False,ocon,French,force_india,14,12,0,0,0,0,0,0,3.622,21
+2018,1,albert_park,True,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,16,15,0,0,0,0,0,0,3.368,28
+2018,1,albert_park,True,False,False,False,False,ericsson,Swedish,sauber,17,19,0,0,0,0,0,0,3.392,27
+2018,1,albert_park,True,False,False,False,False,leclerc,Monegasque,sauber,18,13,0,0,0,0,0,0,3.472,20
+2018,1,albert_park,True,False,False,False,False,sirotkin,Russian,williams,19,20,0,0,0,0,0,0,3.758,22
+2018,1,albert_park,True,False,False,False,False,gasly,French,toro_rosso,20,18,0,0,0,0,0,0,4.131,22

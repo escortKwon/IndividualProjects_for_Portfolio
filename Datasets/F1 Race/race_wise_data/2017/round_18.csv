@@ -1,0 +1,17 @@
+season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2017,18,rodriguez,False,False,True,False,False,vettel,German,ferrari,1,4,265,4,2,428,4,2,0.0,30
+2017,18,rodriguez,False,False,True,False,False,max_verstappen,Dutch,red_bull,2,1,123,1,6,315,2,3,0.086,20
+2017,18,rodriguez,False,False,True,False,False,hamilton,British,mercedes,3,9,331,9,1,575,11,1,0.446,32
+2017,18,rodriguez,False,False,True,False,False,bottas,Finnish,mercedes,4,2,244,2,3,575,11,1,0.47,28
+2017,18,rodriguez,False,False,True,False,False,raikkonen,Finnish,ferrari,5,3,163,0,5,428,4,2,0.75,38
+2017,18,rodriguez,False,False,True,False,False,ocon,French,force_india,6,5,73,0,8,159,0,4,0.949,21
+2017,18,rodriguez,False,False,True,False,False,hulkenberg,German,renault,7,19,34,0,11,48,0,7,0.978,30
+2017,18,rodriguez,False,False,True,False,False,sainz,Spanish,renault,8,16,54,0,9,48,0,7,1.306,23
+2017,18,rodriguez,False,False,True,False,False,perez,Mexican,force_india,9,7,86,0,7,159,0,4,1.319,27
+2017,18,rodriguez,False,False,True,False,False,massa,Brazilian,williams,10,11,36,0,10,68,0,5,1.611,36
+2017,18,rodriguez,False,False,True,False,False,stroll,Canadian,williams,11,6,32,0,12,68,0,5,2.671,19
+2017,18,rodriguez,False,False,True,False,False,ericsson,Swedish,sauber,12,17,0,0,20,5,0,10,2.688,27
+2017,18,rodriguez,False,False,True,False,False,wehrlein,German,sauber,13,14,5,0,18,5,0,10,2.845,23
+2017,18,rodriguez,False,False,True,False,False,kevin_magnussen,Danish,haas,14,8,15,0,14,43,0,8,2.955,25
+2017,18,rodriguez,False,False,True,False,False,grosjean,French,haas,15,15,28,0,13,43,0,8,2.985,31
+2017,18,rodriguez,False,False,True,False,False,ricciardo,Australian,red_bull,16,20,192,1,4,315,2,3,0.959,28

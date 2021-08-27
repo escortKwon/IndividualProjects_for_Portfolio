@@ -1,0 +1,17 @@
+season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2019,3,shanghai,False,False,False,False,False,bottas,Finnish,mercedes,1,2,44,1,1,87,2,1,0.0,29
+2019,3,shanghai,False,False,False,False,False,hamilton,British,mercedes,2,1,43,1,2,87,2,1,0.023,34
+2019,3,shanghai,False,False,False,False,False,vettel,German,ferrari,3,3,22,0,5,48,0,2,0.301,31
+2019,3,shanghai,False,False,False,False,False,leclerc,Monegasque,ferrari,4,5,26,0,4,48,0,2,0.318,21
+2019,3,shanghai,False,False,False,False,False,max_verstappen,Dutch,red_bull,5,4,27,0,3,31,0,3,0.542,21
+2019,3,shanghai,False,False,False,False,False,gasly,French,red_bull,6,6,4,0,10,31,0,3,1.383,23
+2019,3,shanghai,False,False,False,False,False,ricciardo,Australian,renault,7,7,0,0,18,6,0,7,1.411,29
+2019,3,shanghai,False,False,False,False,False,hulkenberg,German,renault,8,20,6,0,9,6,0,7,1.415,31
+2019,3,shanghai,False,False,False,False,False,kvyat,Russian,toro_rosso,11,19,1,0,13,3,0,8,1.689,24
+2019,3,shanghai,False,False,False,False,False,perez,Mexican,racing_point,12,8,1,0,14,3,0,9,1.752,29
+2019,3,shanghai,False,False,False,False,False,raikkonen,Finnish,alfa,13,9,10,0,6,10,0,4,1.872,39
+2019,3,shanghai,False,False,False,False,False,sainz,Spanish,mclaren,14,14,0,0,20,8,0,5,1.976,24
+2019,3,shanghai,False,False,False,False,False,norris,British,mclaren,15,18,8,0,7,8,0,5,2.42,19
+2019,3,shanghai,False,False,False,False,False,stroll,Canadian,racing_point,16,12,2,0,12,3,0,9,2.745,20
+2019,3,shanghai,False,False,False,False,False,russell,British,williams,17,16,0,0,16,0,0,10,3.706,21
+2019,3,shanghai,False,False,False,False,False,kubica,Polish,williams,18,17,0,0,17,0,0,10,3.734,34

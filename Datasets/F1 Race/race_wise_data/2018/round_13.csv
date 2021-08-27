@@ -1,0 +1,19 @@
+season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+2018,13,spa,False,False,False,False,False,hamilton,British,mercedes,1,2,213,5,1,345,5,1,0.0,33
+2018,13,spa,False,False,False,False,False,vettel,German,ferrari,2,1,189,4,2,335,4,2,0.726,31
+2018,13,spa,False,False,False,False,False,ocon,French,force_india,3,6,29,0,12,59,0,6,3.672,21
+2018,13,spa,False,False,False,False,False,perez,Mexican,force_india,4,5,30,0,10,59,0,6,3.715,28
+2018,13,spa,False,False,False,False,False,grosjean,French,haas,5,7,21,0,14,66,0,5,3.943,32
+2018,13,spa,False,False,False,False,False,raikkonen,Finnish,ferrari,6,17,146,0,3,335,4,2,4.492,38
+2018,13,spa,False,False,False,False,False,max_verstappen,Dutch,red_bull,7,3,105,1,6,223,3,3,4.59,20
+2018,13,spa,False,False,False,False,False,ricciardo,Australian,red_bull,8,16,118,2,5,223,3,3,4.76,29
+2018,13,spa,False,False,False,False,False,kevin_magnussen,Danish,haas,9,8,45,0,8,66,0,5,6.754,25
+2018,13,spa,False,False,False,False,False,gasly,French,toro_rosso,10,9,26,0,13,28,0,8,-14.335,22
+2018,13,spa,False,False,False,False,False,brendon_hartley,New Zealander,toro_rosso,11,14,2,0,19,28,0,8,-14.314,28
+2018,13,spa,False,False,False,False,False,leclerc,Monegasque,sauber,12,18,13,0,15,18,0,9,-14.117,20
+2018,13,spa,False,False,False,False,False,ericsson,Swedish,sauber,13,10,5,0,17,18,0,9,-13.878,27
+2018,13,spa,False,False,False,False,False,sainz,Spanish,renault,14,11,30,0,11,82,0,4,-13.262,23
+2018,13,spa,False,False,False,False,False,alonso,Spanish,mclaren,15,19,44,0,9,52,0,7,-13.181,37
+2018,13,spa,False,False,False,False,False,sirotkin,Russian,williams,16,12,0,0,20,4,0,10,-13.045,22
+2018,13,spa,False,False,False,False,False,bottas,Finnish,mercedes,19,4,132,0,4,345,5,1,-13.69,28
+2018,13,spa,False,False,False,False,False,hulkenberg,German,renault,20,20,52,0,7,82,0,4,-12.872,31
