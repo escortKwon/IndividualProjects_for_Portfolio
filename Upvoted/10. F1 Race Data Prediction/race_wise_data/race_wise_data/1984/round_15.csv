@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+722,1984,15,nurburgring,True,False,False,False,False,piquet,Brazilian,brabham,1,3,24,2,5,33,2,5,0.0,32
+720,1984,15,nurburgring,True,False,False,False,False,prost,French,mclaren,2,1,0,5,2,0,10,1,0.2999999999999971,29
+734,1984,15,nurburgring,True,False,False,False,False,tambay,French,renault,3,15,11,0,10,34,0,4,0.5999999999999943,35
+741,1984,15,nurburgring,True,False,False,False,False,keke_rosberg,Finnish,williams,4,22,0,1,8,0,1,6,1.7999999999999972,35
+721,1984,15,nurburgring,True,False,False,False,False,alboreto,Italian,ferrari,5,2,0,1,7,0,1,2,2.0,27
+724,1984,15,nurburgring,True,False,False,False,False,arnoux,French,ferrari,6,5,25,0,4,0,1,2,2.299999999999997,36
+730,1984,15,nurburgring,True,False,False,False,False,warwick,British,renault,7,11,23,0,6,34,0,4,2.6999999999999886,30
+733,1984,15,nurburgring,True,False,False,False,False,mansell,British,team_lotus,8,14,13,0,9,45,0,3,2.799999999999997,31
+725,1984,15,nurburgring,True,False,False,False,False,patrese,Italian,alfa,9,6,7,0,13,10,0,8,3.0,30
+732,1984,15,nurburgring,True,False,False,False,False,fabi,Italian,brabham,10,13,9,0,12,33,2,5,3.299999999999997,29
+728,1984,15,nurburgring,True,False,False,False,False,boutsen,Belgian,arrows,11,9,5,0,15,6,0,9,3.299999999999997,27
+742,1984,15,nurburgring,True,False,False,False,False,senna,Brazilian,toleman,12,23,9,0,11,12,0,7,3.5,24
+735,1984,15,nurburgring,True,False,False,False,False,cheever,American,alfa,13,16,3,0,16,10,0,8,3.5999999999999943,26
+738,1984,15,nurburgring,True,False,False,False,False,laffite,French,williams,14,19,5,0,14,0,1,6,3.6999999999999886,40
+723,1984,15,nurburgring,True,False,False,False,False,lauda,Austrian,mclaren,15,4,63,5,1,0,10,1,3.6999999999999886,35
+743,1984,15,nurburgring,True,False,False,False,False,surer,Swiss,arrows,16,24,1,0,20,6,0,9,3.799999999999997,33
+726,1984,15,nurburgring,True,False,False,False,False,cesaris,Italian,ligier,17,7,3,0,18,3,0,10,4.099999999999994,25
+744,1984,15,nurburgring,True,False,False,False,False,berger,Austrian,ats,18,25,0,0,22,0,0,12,4.199999999999989,25
+729,1984,15,nurburgring,True,False,False,False,False,hesnault,French,ligier,19,10,0,0,23,3,0,10,4.399999999999992,27
+745,1984,15,nurburgring,True,False,False,False,False,ghinzani,Italian,osella,20,26,2,0,19,2,0,11,5.799999999999997,32
+737,1984,15,nurburgring,True,False,False,False,False,palmer,British,ram,21,18,0,0,27,0,0,14,6.199999999999989,27
+731,1984,15,nurburgring,True,False,False,False,False,gartner,Austrian,osella,22,12,0,0,21,2,0,11,7.299999999999997,30
+739,1984,15,nurburgring,True,False,False,False,False,angelis,Italian,team_lotus,23,20,32,0,3,45,0,3,7.299999999999997,26
+727,1984,15,nurburgring,True,False,False,False,False,baldi,Italian,spirit,24,8,0,0,26,0,0,13,9.199999999999989,30
+736,1984,15,nurburgring,True,False,False,False,False,alliot,French,ram,25,17,0,0,30,0,0,14,11.399999999999991,30
+740,1984,15,nurburgring,True,False,False,False,False,johansson,Swedish,toleman,26,21,3,0,17,12,0,7,22.3,28

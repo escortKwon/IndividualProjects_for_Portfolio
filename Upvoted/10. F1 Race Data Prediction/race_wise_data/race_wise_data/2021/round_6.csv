@@ -1,0 +1,19 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14972,2021,6,BAK,True,False,False,False,False,leclerc,Monegasque,ferrari,1,4,40,0,6,78,0,4,0.0,23
+14983,2021,6,BAK,True,False,False,False,False,hamilton,British,mercedes,2,15,101,3,2,148,3,2,0.2999999999999971,36
+14986,2021,6,BAK,True,False,False,False,False,max_verstappen,Dutch,red_bull,3,18,105,2,1,149,2,1,0.3999999999999915,23
+14971,2021,6,BAK,True,False,False,False,False,gasly,French,alphatauri,4,3,16,0,9,18,0,6,0.3999999999999915,25
+14976,2021,6,BAK,True,False,False,False,False,sainz,Spanish,ferrari,5,8,38,0,7,78,0,4,0.3999999999999915,26
+14969,2021,6,BAK,True,False,False,False,False,perez,Mexican,red_bull,6,1,44,0,5,149,2,1,0.7000000000000028,31
+14975,2021,6,BAK,True,False,False,False,False,tsunoda,Japanese,alphatauri,7,7,2,0,14,18,0,6,1.0,21
+14974,2021,6,BAK,True,False,False,False,False,alonso,Spanish,alpine,8,6,5,0,13,17,0,7,1.0999999999999943,39
+14973,2021,6,BAK,True,False,False,False,False,norris,British,mclaren,9,5,56,0,3,80,0,3,0.5,21
+14980,2021,6,BAK,True,False,False,False,False,bottas,Finnish,mercedes,10,12,47,0,4,148,3,2,1.5,31
+14970,2021,6,BAK,True,False,False,False,False,vettel,German,aston_martin,11,2,10,0,11,19,0,5,1.0,33
+14988,2021,6,BAK,True,False,False,False,False,ocon,French,alpine,12,20,12,0,10,17,0,7,1.0999999999999943,24
+14977,2021,6,BAK,True,False,False,False,False,ricciardo,Australian,mclaren,13,9,24,0,8,80,0,3,1.3999999999999917,31
+14978,2021,6,BAK,True,False,False,False,False,raikkonen,Finnish,alfa,14,10,0,0,16,1,0,8,1.3999999999999917,41
+14985,2021,6,BAK,True,False,False,False,False,russell,British,williams,15,17,0,0,17,0,0,9,1.5999999999999943,23
+14984,2021,6,BAK,True,False,False,False,False,latifi,Canadian,williams,16,16,0,0,18,0,0,9,1.8999999999999917,25
+14981,2021,6,BAK,True,False,False,False,False,mick_schumacher,German,haas,17,13,0,0,19,0,0,10,3.0,22
+14982,2021,6,BAK,True,False,False,False,False,mazepin,Russian,haas,18,14,0,0,20,0,0,10,3.0,22

@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+504,1984,6,monaco,False,False,False,True,False,prost,French,mclaren,1,1,24,2,1,42,4,1,0.0,29
+515,1984,6,monaco,False,False,False,True,False,mansell,British,team_lotus,2,13,4,0,9,16,0,4,0.0999999999999943,30
+506,1984,6,monaco,False,False,False,True,False,arnoux,French,ferrari,3,3,13,0,4,22,1,2,0.2000000000000028,35
+509,1984,6,monaco,False,False,False,True,False,alboreto,Italian,ferrari,4,6,9,1,7,22,1,2,0.2000000000000028,27
+520,1984,6,monaco,False,False,False,True,False,warwick,British,renault,5,18,13,0,3,21,0,3,0.5,29
+521,1984,6,monaco,False,False,False,True,False,tambay,French,renault,6,19,8,0,8,21,0,3,0.7000000000000028,34
+522,1984,6,monaco,False,False,False,True,False,cesaris,Italian,ligier,7,20,3,0,12,3,0,8,0.8999999999999915,25
+513,1984,6,monaco,False,False,False,True,False,lauda,Austrian,mclaren,8,11,18,2,2,42,4,1,1.2000000000000028,35
+516,1984,6,monaco,False,False,False,True,False,piquet,Brazilian,brabham,9,14,0,0,19,0,0,12,1.2000000000000028,31
+507,1984,6,monaco,False,False,False,True,False,keke_rosberg,Finnish,williams,10,4,10,0,6,10,0,5,1.5,35
+508,1984,6,monaco,False,False,False,True,False,angelis,Italian,team_lotus,11,5,12,0,5,16,0,4,1.7000000000000028,26
+514,1984,6,monaco,False,False,False,True,False,manfred_winkelhock,German,ats,12,12,0,0,27,0,0,15,1.7999999999999972,32
+505,1984,6,monaco,False,False,False,True,False,senna,Brazilian,toleman,13,2,2,0,14,2,0,9,2.299999999999997,24
+512,1984,6,monaco,False,False,False,True,False,patrese,Italian,alfa,14,10,3,0,11,6,0,6,2.3999999999999915,30
+518,1984,6,monaco,False,False,False,True,False,corrado_fabi,Italian,brabham,15,16,0,0,0,0,0,12,2.5999999999999943,23
+511,1984,6,monaco,False,False,False,True,False,laffite,French,williams,16,8,0,0,18,10,0,5,3.0,40
+517,1984,6,monaco,False,False,False,True,False,hesnault,French,ligier,17,15,0,0,21,3,0,8,3.0999999999999943,27
+519,1984,6,monaco,False,False,False,True,False,cecotto,Venezuelan,toleman,18,17,0,0,24,2,0,9,3.200000000000003,28
+510,1984,6,monaco,False,False,False,True,False,ghinzani,Italian,osella,19,7,0,0,22,0,0,13,3.200000000000003,32

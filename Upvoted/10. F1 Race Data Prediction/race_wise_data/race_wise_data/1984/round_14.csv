@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+709,1984,14,monza,False,False,True,False,False,piquet,Brazilian,brabham,1,16,24,2,5,33,2,5,0.0,32
+718,1984,14,monza,False,False,True,False,False,prost,French,mclaren,2,25,0,5,2,0,9,1,0.1000000000000085,29
+710,1984,14,monza,False,False,True,False,False,angelis,Italian,team_lotus,3,17,32,0,3,45,0,2,0.9000000000000057,26
+694,1984,14,monza,False,False,True,False,False,lauda,Austrian,mclaren,4,1,54,4,1,0,9,1,1.9000000000000057,35
+705,1984,14,monza,False,False,True,False,False,fabi,Italian,brabham,5,12,9,0,12,33,2,5,2.0,29
+713,1984,14,monza,False,False,True,False,False,keke_rosberg,Finnish,williams,6,20,0,1,7,0,1,6,2.200000000000003,35
+711,1984,14,monza,False,False,True,False,False,mansell,British,team_lotus,7,18,13,0,9,45,0,2,2.4000000000000057,31
+704,1984,14,monza,False,False,True,False,False,tambay,French,renault,8,11,11,0,10,34,0,4,2.700000000000003,35
+696,1984,14,monza,False,False,True,False,False,patrese,Italian,alfa,9,3,3,0,16,6,0,8,2.800000000000012,30
+702,1984,14,monza,False,False,True,False,False,cheever,American,alfa,10,9,3,0,15,6,0,8,3.200000000000003,26
+695,1984,14,monza,False,False,True,False,False,alboreto,Italian,ferrari,11,2,0,1,8,0,1,3,3.200000000000003,27
+707,1984,14,monza,False,False,True,False,False,warwick,British,renault,12,14,23,0,6,34,0,4,3.5,30
+712,1984,14,monza,False,False,True,False,False,laffite,French,williams,13,19,5,0,13,0,1,6,4.0,40
+717,1984,14,monza,False,False,True,False,False,arnoux,French,ferrari,14,24,25,0,4,0,1,3,4.1000000000000085,36
+706,1984,14,monza,False,False,True,False,False,surer,Swiss,arrows,15,13,1,0,19,6,0,9,4.5,32
+714,1984,14,monza,False,False,True,False,False,cesaris,Italian,ligier,16,21,3,0,17,3,0,10,4.6000000000000085,25
+697,1984,14,monza,False,False,True,False,False,johansson,Swedish,toleman,17,4,0,0,0,9,0,7,4.6000000000000085,28
+715,1984,14,monza,False,False,True,False,False,hesnault,French,ligier,18,22,0,0,20,3,0,10,4.700000000000003,27
+703,1984,14,monza,False,False,True,False,False,boutsen,Belgian,arrows,19,10,5,0,14,6,0,9,4.700000000000003,27
+699,1984,14,monza,False,False,True,False,False,berger,Austrian,ats,20,6,0,0,29,0,0,13,4.900000000000006,25
+719,1984,14,monza,False,False,True,False,False,manfred_winkelhock,German,ats,21,26,0,0,22,0,0,13,6.300000000000011,32
+700,1984,14,monza,False,False,True,False,False,ghinzani,Italian,osella,22,7,2,0,18,2,0,11,6.900000000000006,32
+716,1984,14,monza,False,False,True,False,False,alliot,French,ram,23,23,0,0,27,0,0,14,7.5,30
+698,1984,14,monza,False,False,True,False,False,gartner,Austrian,osella,24,5,0,0,28,2,0,11,7.900000000000006,30
+701,1984,14,monza,False,False,True,False,False,rothengatter,Dutch,spirit,25,8,0,0,26,0,0,12,8.100000000000009,29
+708,1984,14,monza,False,False,True,False,False,palmer,British,ram,26,15,0,0,24,0,0,14,8.800000000000011,27

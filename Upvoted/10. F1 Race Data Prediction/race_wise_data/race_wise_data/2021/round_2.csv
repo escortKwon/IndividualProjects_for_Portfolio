@@ -1,0 +1,18 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14891,2021,2,imola,False,False,False,True,False,hamilton,British,mercedes,1,2,25,1,1,41,1,1,0.0,36
+14900,2021,2,imola,False,False,False,True,False,perez,Mexican,red_bull,2,11,10,0,5,28,0,2,0.0,31
+14890,2021,2,imola,False,False,False,True,False,max_verstappen,Dutch,red_bull,3,1,18,0,2,28,0,2,0.0999999999999943,23
+14893,2021,2,imola,False,False,False,True,False,leclerc,Monegasque,ferrari,4,4,8,0,6,12,0,4,0.2999999999999971,23
+14896,2021,2,imola,False,False,False,True,False,gasly,French,alphatauri,5,7,0,0,17,2,0,5,0.3999999999999915,25
+14895,2021,2,imola,False,False,False,True,False,ricciardo,Australian,mclaren,6,6,6,0,7,18,0,3,0.3999999999999915,31
+14892,2021,2,imola,False,False,False,True,False,norris,British,mclaren,7,3,12,0,4,18,0,3,0.5,21
+14906,2021,2,imola,False,False,False,True,False,bottas,Finnish,mercedes,8,18,16,0,3,41,1,1,0.5,31
+14898,2021,2,imola,False,False,False,True,False,ocon,French,alpine,9,9,0,0,13,0,0,8,0.7999999999999972,24
+14894,2021,2,imola,False,False,False,True,False,sainz,Spanish,ferrari,11,5,4,0,8,12,0,4,0.7999999999999972,26
+14907,2021,2,imola,False,False,False,True,False,russell,British,williams,12,19,0,0,14,0,0,9,0.8999999999999915,23
+14908,2021,2,imola,False,False,False,True,False,latifi,Canadian,williams,14,20,0,0,18,0,0,9,1.1999999999999886,25
+14899,2021,2,imola,False,False,False,True,False,alonso,Spanish,alpine,15,10,0,0,19,0,0,8,1.1999999999999886,39
+14902,2021,2,imola,False,False,False,True,False,raikkonen,Finnish,alfa,16,13,0,0,11,0,0,7,1.5999999999999943,41
+14903,2021,2,imola,False,False,False,True,False,giovinazzi,Italian,alfa,17,14,0,0,12,0,0,7,1.6999999999999886,27
+14904,2021,2,imola,False,False,False,True,False,mick_schumacher,German,haas,18,16,0,0,16,0,0,10,1.8999999999999917,22
+14905,2021,2,imola,False,False,False,True,False,mazepin,Russian,haas,19,17,0,0,20,0,0,10,2.3999999999999915,22

@@ -1,0 +1,27 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+52,1983,3,ricard,False,False,False,False,True,prost,French,renault,1,1,0,0,9,0,0,7,0.0,28
+54,1983,3,ricard,False,False,False,False,True,cheever,American,renault,2,3,0,0,17,0,0,7,2.299999999999997,25
+74,1983,3,ricard,False,False,False,False,True,patrese,Italian,brabham,3,23,0,0,15,9,1,2,2.3999999999999915,29
+58,1983,3,ricard,False,False,False,False,True,arnoux,French,ferrari,4,7,4,0,5,6,0,3,2.3999999999999915,34
+73,1983,3,ricard,False,False,False,False,True,angelis,Italian,team_lotus,5,22,0,0,23,0,0,11,2.5999999999999943,25
+53,1983,3,ricard,False,False,False,False,True,piquet,Brazilian,brabham,6,2,9,1,2,9,1,2,2.8999999999999915,30
+63,1983,3,ricard,False,False,False,False,True,cesaris,Italian,alfa,7,12,0,0,21,0,0,14,2.8999999999999915,23
+69,1983,3,ricard,False,False,False,False,True,baldi,Italian,alfa,8,18,0,0,26,0,0,14,2.8999999999999915,29
+75,1983,3,ricard,False,False,False,False,True,warwick,British,toleman,9,24,0,0,12,0,0,10,3.200000000000003,28
+67,1983,3,ricard,False,False,False,False,True,manfred_winkelhock,German,ats,10,16,0,0,19,0,0,13,3.5,31
+55,1983,3,ricard,False,False,False,False,True,tambay,French,ferrari,11,4,2,0,7,6,0,3,3.700000000000003,33
+68,1983,3,ricard,False,False,False,False,True,lauda,Austrian,mclaren,12,17,10,0,1,19,1,1,4.399999999999992,34
+64,1983,3,ricard,False,False,False,False,True,giacomelli,Italian,toleman,13,13,0,0,25,0,0,10,5.099999999999994,30
+77,1983,3,ricard,False,False,False,False,True,watson,British,mclaren,14,26,9,1,3,19,1,1,5.099999999999994,36
+59,1983,3,ricard,False,False,False,False,True,alboreto,Italian,tyrrell,15,8,0,0,13,0,0,9,5.5,26
+56,1983,3,ricard,False,False,False,False,True,keke_rosberg,Finnish,williams,16,5,0,0,27,6,0,4,5.700000000000003,34
+62,1983,3,ricard,False,False,False,False,True,cecotto,Venezuelan,theodore,17,11,1,0,8,1,0,6,5.899999999999992,27
+76,1983,3,ricard,False,False,False,False,True,mansell,British,team_lotus,18,25,0,0,16,0,0,11,6.0,29
+57,1983,3,ricard,False,False,False,False,True,laffite,French,williams,19,6,6,0,4,6,0,4,6.0,39
+60,1983,3,ricard,False,False,False,False,True,jarier,French,ligier,20,9,0,0,24,0,0,8,6.0,36
+61,1983,3,ricard,False,False,False,False,True,surer,Swiss,arrows,21,10,3,0,6,3,0,5,6.299999999999997,31
+71,1983,3,ricard,False,False,False,False,True,guerrero,Colombian,theodore,22,20,0,0,22,1,0,6,6.700000000000003,24
+66,1983,3,ricard,False,False,False,False,True,corrado_fabi,Italian,osella,23,15,0,0,28,0,0,15,6.700000000000003,22
+72,1983,3,ricard,False,False,False,False,True,sullivan,American,tyrrell,24,21,0,0,11,0,0,9,7.0,33
+65,1983,3,ricard,False,False,False,False,True,boesel,Brazilian,ligier,25,14,0,0,10,0,0,8,7.799999999999997,25
+70,1983,3,ricard,False,False,False,False,True,serra,Brazilian,arrows,26,19,0,0,14,3,0,5,8.099999999999994,26

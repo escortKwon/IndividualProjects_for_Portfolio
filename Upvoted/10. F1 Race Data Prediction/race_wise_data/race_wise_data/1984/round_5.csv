@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+481,1984,5,dijon,False,False,True,False,False,tambay,French,renault,1,2,2,0,12,15,0,3,0.0,34
+484,1984,5,dijon,False,False,True,False,False,angelis,Italian,team_lotus,2,5,10,0,4,10,0,4,0.0999999999999943,26
+500,1984,5,dijon,False,False,True,False,False,piquet,Brazilian,brabham,3,23,0,0,17,0,0,12,0.5999999999999943,31
+485,1984,5,dijon,False,False,True,False,False,keke_rosberg,Finnish,williams,4,6,9,0,7,9,0,5,0.6999999999999957,35
+486,1984,5,dijon,False,False,True,False,False,prost,French,mclaren,5,7,24,2,1,33,3,1,0.7999999999999972,29
+482,1984,5,dijon,False,False,True,False,False,mansell,British,team_lotus,6,3,0,0,22,10,0,4,1.0,30
+493,1984,5,dijon,False,False,True,False,False,warwick,British,renault,7,16,13,0,2,15,0,3,1.2999999999999972,29
+502,1984,5,dijon,False,False,True,False,False,manfred_winkelhock,German,ats,8,25,0,0,25,0,0,14,1.6999999999999955,32
+480,1984,5,dijon,False,False,True,False,False,lauda,Austrian,mclaren,9,1,9,1,6,33,3,1,2.200000000000003,35
+497,1984,5,dijon,False,False,True,False,False,alboreto,Italian,ferrari,10,20,9,1,5,19,1,2,2.299999999999997,27
+483,1984,5,dijon,False,False,True,False,False,arnoux,French,ferrari,11,4,10,0,3,19,1,2,2.700000000000003,35
+487,1984,5,dijon,False,False,True,False,False,laffite,French,williams,12,8,0,0,26,9,0,5,3.200000000000003,40
+496,1984,5,dijon,False,False,True,False,False,senna,Brazilian,toleman,13,19,2,0,13,2,0,9,3.5,24
+489,1984,5,dijon,False,False,True,False,False,boutsen,Belgian,arrows,14,11,3,0,10,3,0,7,3.799999999999997,26
+499,1984,5,dijon,False,False,True,False,False,patrese,Italian,alfa,15,22,3,0,9,6,0,6,4.0,30
+495,1984,5,dijon,False,False,True,False,False,cheever,American,alfa,16,18,3,0,8,6,0,6,4.099999999999994,26
+488,1984,5,dijon,False,False,True,False,False,fabi,Italian,brabham,17,9,0,0,23,0,0,12,4.200000000000003,29
+498,1984,5,dijon,False,False,True,False,False,cecotto,Venezuelan,toleman,18,21,0,0,20,2,0,9,6.0,28
+494,1984,5,dijon,False,False,True,False,False,surer,Swiss,arrows,19,17,0,0,14,3,0,7,6.299999999999997,32
+501,1984,5,dijon,False,False,True,False,False,bellof,German,tyrrell,20,24,0,0,24,0,0,13,6.799999999999997,26
+490,1984,5,dijon,False,False,True,False,False,palmer,British,ram,21,13,0,0,16,0,0,11,7.200000000000003,27
+503,1984,5,dijon,False,False,True,False,False,alliot,French,ram,22,26,0,0,19,0,0,11,7.399999999999991,29
+491,1984,5,dijon,False,False,True,False,False,brundle,British,tyrrell,23,14,0,0,21,0,0,13,9.399999999999991,24
+492,1984,5,dijon,False,False,True,False,False,baldi,Italian,spirit,24,15,0,0,15,0,0,10,20.200000000000003,30

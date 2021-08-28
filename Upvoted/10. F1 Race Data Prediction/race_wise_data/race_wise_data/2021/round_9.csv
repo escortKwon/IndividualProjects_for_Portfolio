@@ -1,0 +1,21 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+15028,2021,9,red_bull_ring,False,False,False,False,True,max_verstappen,Dutch,red_bull,1,1,156,4,1,252,5,1,0.0,23
+15030,2021,9,red_bull_ring,False,False,False,False,True,norris,British,mclaren,2,3,86,0,4,120,0,3,0.0999999999999943,21
+15033,2021,9,red_bull_ring,False,False,False,False,True,perez,Mexican,red_bull,3,6,96,1,3,252,5,1,0.2999999999999971,31
+15031,2021,9,red_bull_ring,False,False,False,False,True,hamilton,British,mercedes,4,4,138,3,2,212,3,2,0.2999999999999971,36
+15029,2021,9,red_bull_ring,False,False,False,False,True,bottas,Finnish,mercedes,5,2,74,0,5,212,3,2,0.2999999999999971,31
+15036,2021,9,red_bull_ring,False,False,False,False,True,gasly,French,alphatauri,6,9,37,0,8,46,0,5,0.3999999999999915,25
+15039,2021,9,red_bull_ring,False,False,False,False,True,tsunoda,Japanese,alphatauri,7,12,9,0,14,46,0,5,0.5999999999999943,21
+15038,2021,9,red_bull_ring,False,False,False,False,True,russell,British,williams,8,11,0,0,17,0,0,9,0.8999999999999915,23
+15040,2021,9,red_bull_ring,False,False,False,False,True,stroll,Canadian,aston_martin,9,13,14,0,12,44,0,6,0.8999999999999915,22
+15032,2021,9,red_bull_ring,False,False,False,False,True,sainz,Spanish,ferrari,10,5,50,0,7,108,0,4,0.8999999999999915,26
+15044,2021,9,red_bull_ring,False,False,False,False,True,vettel,German,aston_martin,11,17,30,0,10,44,0,6,0.8999999999999915,34
+15035,2021,9,red_bull_ring,False,False,False,False,True,leclerc,Monegasque,ferrari,12,8,58,0,6,108,0,4,0.8999999999999915,23
+15034,2021,9,red_bull_ring,False,False,False,False,True,ricciardo,Australian,mclaren,13,7,34,0,9,120,0,3,1.0,32
+15037,2021,9,red_bull_ring,False,False,False,False,True,alonso,Spanish,alpine,14,10,19,0,11,31,0,7,1.2000000000000028,39
+15041,2021,9,red_bull_ring,False,False,False,False,True,giovinazzi,Italian,alfa,15,14,1,0,16,2,0,8,1.3999999999999917,27
+15042,2021,9,red_bull_ring,False,False,False,False,True,raikkonen,Finnish,alfa,16,15,1,0,15,2,0,8,1.2999999999999972,41
+15047,2021,9,red_bull_ring,False,False,False,False,True,ocon,French,alpine,17,20,12,0,13,31,0,7,1.3999999999999917,24
+15043,2021,9,red_bull_ring,False,False,False,False,True,latifi,Canadian,williams,18,16,0,0,20,0,0,9,1.5,26
+15045,2021,9,red_bull_ring,False,False,False,False,True,mick_schumacher,German,haas,19,18,0,0,18,0,0,10,1.7000000000000028,22
+15046,2021,9,red_bull_ring,False,False,False,False,True,mazepin,Russian,haas,20,19,0,0,19,0,0,10,2.299999999999997,22

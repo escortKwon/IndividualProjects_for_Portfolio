@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+646,1984,12,osterreichring,False,False,True,False,False,piquet,Brazilian,brabham,1,2,18,2,7,22,2,6,0.0,32
+660,1984,12,osterreichring,False,False,True,False,False,prost,French,mclaren,2,16,0,4,1,0,7,1,0.0,29
+661,1984,12,osterreichring,False,False,True,False,False,angelis,Italian,team_lotus,3,17,29,0,3,38,0,2,0.0999999999999943,26
+645,1984,12,osterreichring,False,False,True,False,False,lauda,Austrian,mclaren,4,1,39,3,2,0,7,1,0.5,35
+657,1984,12,osterreichring,False,False,True,False,False,tambay,French,renault,5,13,10,0,9,33,0,4,0.5,35
+664,1984,12,osterreichring,False,False,True,False,False,warwick,British,renault,6,20,23,0,5,33,0,4,0.8999999999999915,29
+648,1984,12,osterreichring,False,False,True,False,False,fabi,Italian,brabham,7,4,4,0,13,22,2,6,1.0,29
+659,1984,12,osterreichring,False,False,True,False,False,mansell,British,team_lotus,8,15,9,0,11,38,0,2,1.3999999999999917,31
+666,1984,12,osterreichring,False,False,True,False,False,keke_rosberg,Finnish,williams,9,22,0,1,6,0,1,5,2.5999999999999943,35
+658,1984,12,osterreichring,False,False,True,False,False,senna,Brazilian,toleman,10,14,9,0,10,9,0,7,3.0,24
+667,1984,12,osterreichring,False,False,True,False,False,laffite,French,williams,11,23,5,0,12,0,1,5,3.0,40
+647,1984,12,osterreichring,False,False,True,False,False,alboreto,Italian,ferrari,12,3,0,1,8,0,1,3,3.5,27
+654,1984,12,osterreichring,False,False,True,False,False,patrese,Italian,alfa,13,10,3,0,15,6,0,8,4.5,30
+651,1984,12,osterreichring,False,False,True,False,False,arnoux,French,ferrari,15,7,25,0,4,0,1,3,4.799999999999997,36
+663,1984,12,osterreichring,False,False,True,False,False,cheever,American,alfa,16,19,3,0,14,6,0,8,4.799999999999997,26
+649,1984,12,osterreichring,False,False,True,False,False,boutsen,Belgian,arrows,17,5,3,0,17,3,0,9,5.0,27
+665,1984,12,osterreichring,False,False,True,False,False,cesaris,Italian,ligier,18,21,3,0,16,3,0,10,5.399999999999992,25
+650,1984,12,osterreichring,False,False,True,False,False,surer,Swiss,arrows,19,6,0,0,19,3,0,9,5.5,32
+656,1984,12,osterreichring,False,False,True,False,False,berger,Austrian,ats,20,12,0,0,0,0,0,13,5.700000000000003,24
+652,1984,12,osterreichring,False,False,True,False,False,hesnault,French,ligier,21,8,0,0,24,3,0,10,6.099999999999994,27
+668,1984,12,osterreichring,False,False,True,False,False,gartner,Austrian,osella,22,24,0,0,0,2,0,11,6.799999999999997,30
+669,1984,12,osterreichring,False,False,True,False,False,ghinzani,Italian,osella,23,25,2,0,18,2,0,11,7.0,32
+653,1984,12,osterreichring,False,False,True,False,False,palmer,British,ram,24,9,0,0,23,0,0,14,7.899999999999991,27
+655,1984,12,osterreichring,False,False,True,False,False,alliot,French,ram,25,11,0,0,27,0,0,14,8.299999999999997,30
+662,1984,12,osterreichring,False,False,True,False,False,rothengatter,Dutch,spirit,26,18,0,0,26,0,0,12,9.399999999999991,29

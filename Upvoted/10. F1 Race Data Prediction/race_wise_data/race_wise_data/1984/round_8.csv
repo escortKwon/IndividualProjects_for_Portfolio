@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+547,1984,8,detroit,True,False,False,False,False,piquet,Brazilian,brabham,1,1,9,1,8,9,1,6,0.0,31
+550,1984,8,detroit,True,False,False,False,False,prost,French,mclaren,2,4,0,3,1,0,5,1,0.5999999999999943,29
+560,1984,8,detroit,True,False,False,False,False,mansell,British,team_lotus,3,14,5,0,11,21,0,4,1.2000000000000028,30
+553,1984,8,detroit,True,False,False,False,False,alboreto,Italian,ferrari,4,7,0,1,7,0,1,2,1.2000000000000028,27
+548,1984,8,detroit,True,False,False,False,False,angelis,Italian,team_lotus,5,2,16,0,4,21,0,4,1.4000000000000057,26
+555,1984,8,detroit,True,False,False,False,False,warwick,British,renault,6,9,13,0,5,21,0,3,1.5999999999999943,29
+565,1984,8,detroit,True,False,False,False,False,senna,Brazilian,toleman,7,19,5,0,10,5,0,8,1.7000000000000028,24
+564,1984,8,detroit,True,False,False,False,False,cheever,American,alfa,8,18,3,0,12,6,0,7,2.0999999999999943,26
+557,1984,8,detroit,True,False,False,False,False,tambay,French,renault,9,11,8,0,9,21,0,3,2.299999999999997,34
+559,1984,8,detroit,True,False,False,False,False,lauda,Austrian,mclaren,10,13,24,2,2,0,5,1,2.5,35
+552,1984,8,detroit,True,False,False,False,False,brundle,British,tyrrell,11,6,0,0,26,0,0,15,3.0,25
+562,1984,8,detroit,True,False,False,False,False,cesaris,Italian,ligier,12,16,3,0,14,3,0,10,3.0999999999999943,25
+561,1984,8,detroit,True,False,False,False,False,boutsen,Belgian,arrows,13,15,3,0,15,3,0,9,3.200000000000003,26
+569,1984,8,detroit,True,False,False,False,False,manfred_winkelhock,German,ats,14,25,0,0,21,0,0,14,3.700000000000003,32
+567,1984,8,detroit,True,False,False,False,False,arnoux,French,ferrari,15,23,17,0,3,0,1,2,4.200000000000003,35
+556,1984,8,detroit,True,False,False,False,False,bellof,German,tyrrell,16,10,0,0,27,0,0,15,4.400000000000006,26
+563,1984,8,detroit,True,False,False,False,False,cecotto,Venezuelan,toleman,17,17,0,0,22,5,0,8,5.200000000000003,28
+566,1984,8,detroit,True,False,False,False,False,hesnault,French,ligier,18,21,0,0,25,3,0,10,5.299999999999997,27
+551,1984,8,detroit,True,False,False,False,False,laffite,French,williams,19,5,0,0,19,0,0,5,5.5,40
+558,1984,8,detroit,True,False,False,False,False,alliot,French,ram,20,12,0,0,24,0,0,13,5.599999999999994,29
+554,1984,8,detroit,True,False,False,False,False,keke_rosberg,Finnish,williams,21,8,0,0,6,0,0,5,6.299999999999997,35
+570,1984,8,detroit,True,False,False,False,False,surer,Swiss,arrows,22,26,0,0,16,3,0,9,6.700000000000003,32
+549,1984,8,detroit,True,False,False,False,False,fabi,Italian,brabham,23,3,0,0,23,9,1,6,7.0,29
+568,1984,8,detroit,True,False,False,False,False,palmer,British,ram,24,24,0,0,20,0,0,13,7.900000000000006,27

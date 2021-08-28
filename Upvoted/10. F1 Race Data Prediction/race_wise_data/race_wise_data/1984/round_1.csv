@@ -1,0 +1,25 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+386,1984,1,jacarepagua,False,False,True,False,False,angelis,Italian,team_lotus,1,3,0,0,0,0,0,0,0.0,25
+404,1984,1,jacarepagua,False,False,True,False,False,alboreto,Italian,ferrari,2,23,0,0,0,0,0,0,0.5,27
+392,1984,1,jacarepagua,False,False,True,False,False,warwick,British,renault,3,10,0,0,0,0,0,0,0.5999999999999943,29
+384,1984,1,jacarepagua,False,False,True,False,False,prost,French,mclaren,4,1,0,0,0,0,0,0,0.8999999999999915,29
+396,1984,1,jacarepagua,False,False,True,False,False,mansell,British,team_lotus,5,14,0,0,0,0,0,0,1.0,30
+395,1984,1,jacarepagua,False,False,True,False,False,lauda,Austrian,mclaren,6,13,0,0,0,0,0,0,1.5,35
+397,1984,1,jacarepagua,False,False,True,False,False,piquet,Brazilian,brabham,7,15,0,0,0,0,0,0,1.6999999999999886,31
+388,1984,1,jacarepagua,False,False,True,False,False,tambay,French,renault,8,5,0,0,0,0,0,0,2.1999999999999886,34
+385,1984,1,jacarepagua,False,False,True,False,False,keke_rosberg,Finnish,williams,9,2,0,0,0,0,0,0,2.1999999999999886,35
+399,1984,1,jacarepagua,False,False,True,False,False,arnoux,French,ferrari,10,17,0,0,0,0,0,0,2.299999999999997,35
+394,1984,1,jacarepagua,False,False,True,False,False,patrese,Italian,alfa,11,12,0,0,0,0,0,0,2.5999999999999943,29
+387,1984,1,jacarepagua,False,False,True,False,False,cheever,American,alfa,12,4,0,0,0,0,0,0,2.8999999999999915,26
+403,1984,1,jacarepagua,False,False,True,False,False,laffite,French,williams,13,22,0,0,0,0,0,0,3.0999999999999943,40
+393,1984,1,jacarepagua,False,False,True,False,False,cesaris,Italian,ligier,14,11,0,0,0,0,0,0,4.5,24
+398,1984,1,jacarepagua,False,False,True,False,False,fabi,Italian,brabham,15,16,0,0,0,0,0,0,4.899999999999992,29
+407,1984,1,jacarepagua,False,False,True,False,False,senna,Brazilian,toleman,16,26,0,0,0,0,0,0,5.099999999999994,24
+402,1984,1,jacarepagua,False,False,True,False,False,cecotto,Venezuelan,toleman,17,21,0,0,0,0,0,0,6.899999999999992,28
+391,1984,1,jacarepagua,False,False,True,False,False,brundle,British,tyrrell,18,9,0,0,0,0,0,0,7.799999999999997,24
+401,1984,1,jacarepagua,False,False,True,False,False,hesnault,French,ligier,19,19,0,0,0,0,0,0,7.899999999999991,27
+389,1984,1,jacarepagua,False,False,True,False,False,boutsen,Belgian,arrows,20,6,0,0,0,0,0,0,8.0,26
+400,1984,1,jacarepagua,False,False,True,False,False,ghinzani,Italian,osella,21,18,0,0,0,0,0,0,8.399999999999991,32
+406,1984,1,jacarepagua,False,False,True,False,False,bellof,German,tyrrell,22,25,0,0,0,0,0,0,8.799999999999997,26
+405,1984,1,jacarepagua,False,False,True,False,False,baldi,Italian,spirit,23,24,0,0,0,0,0,0,9.299999999999995,30
+390,1984,1,jacarepagua,False,False,True,False,False,surer,Swiss,arrows,24,7,0,0,0,0,0,0,9.5,32

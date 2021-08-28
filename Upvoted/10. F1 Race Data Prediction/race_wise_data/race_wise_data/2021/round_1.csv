@@ -1,0 +1,20 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+14872,2021,1,bahrain,False,False,False,False,False,max_verstappen,Dutch,red_bull,1,2,0,0,0,0,0,0,0.0,23
+14871,2021,1,bahrain,False,False,False,False,False,hamilton,British,mercedes,2,1,0,0,0,0,0,0,0.4000000000000057,36
+14873,2021,1,bahrain,False,False,False,False,False,bottas,Finnish,mercedes,3,3,0,0,0,0,0,0,0.5999999999999943,31
+14875,2021,1,bahrain,False,False,False,False,False,leclerc,Monegasque,ferrari,4,6,0,0,0,0,0,0,0.7000000000000028,23
+14886,2021,1,bahrain,False,False,False,False,False,gasly,French,alphatauri,5,17,0,0,0,0,0,0,0.7999999999999972,25
+14876,2021,1,bahrain,False,False,False,False,False,ricciardo,Australian,mclaren,6,7,0,0,0,0,0,0,0.9000000000000057,31
+14874,2021,1,bahrain,False,False,False,False,False,norris,British,mclaren,7,4,0,0,0,0,0,0,1.0,21
+14877,2021,1,bahrain,False,False,False,False,False,sainz,Spanish,ferrari,8,8,0,0,0,0,0,0,1.2000000000000028,26
+14888,2021,1,bahrain,False,False,False,False,False,alonso,Spanish,alpine,9,19,0,0,0,0,0,0,1.2000000000000028,39
+14879,2021,1,bahrain,False,False,False,False,False,stroll,Canadian,aston_martin,10,10,0,0,0,0,0,0,1.5999999999999943,22
+14881,2021,1,bahrain,False,False,False,False,False,giovinazzi,Italian,alfa,12,12,0,0,0,0,0,0,1.7000000000000028,27
+14878,2021,1,bahrain,False,False,False,False,False,tsunoda,Japanese,alphatauri,13,9,0,0,0,0,0,0,2.200000000000003,20
+14880,2021,1,bahrain,False,False,False,False,False,raikkonen,Finnish,alfa,14,11,0,0,0,0,0,0,2.200000000000003,41
+14883,2021,1,bahrain,False,False,False,False,False,russell,British,williams,15,14,0,0,0,0,0,0,4.400000000000006,23
+14882,2021,1,bahrain,False,False,False,False,False,ocon,French,alpine,16,13,0,0,0,0,0,0,2.700000000000003,24
+14887,2021,1,bahrain,False,False,False,False,False,latifi,Canadian,williams,17,18,0,0,0,0,0,0,2.9000000000000057,25
+14885,2021,1,bahrain,False,False,False,False,False,mick_schumacher,German,haas,18,16,0,0,0,0,0,0,3.4000000000000057,22
+14889,2021,1,bahrain,False,False,False,False,False,mazepin,Russian,haas,19,20,0,0,0,0,0,0,4.299999999999997,22
+14884,2021,1,bahrain,False,False,False,False,False,vettel,German,aston_martin,20,15,0,0,0,0,0,0,3.0999999999999943,33

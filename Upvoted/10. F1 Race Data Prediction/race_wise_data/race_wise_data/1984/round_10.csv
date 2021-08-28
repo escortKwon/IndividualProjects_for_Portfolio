@@ -1,0 +1,26 @@
+Unnamed: 0,season,round,circuit_id,weather_warm,weather_cold,weather_dry,weather_wet,weather_cloudy,driver,nationality,constructor,grid,podium,driver_points,driver_wins,driver_standings_pos,constructor_points,constructor_wins,constructor_standings_pos,qualifying_time,driver_age
+601,1984,10,brands_hatch,False,False,False,False,False,piquet,Brazilian,brabham,1,7,18,2,6,22,2,5,0.0,31
+609,1984,10,brands_hatch,False,False,False,False,False,prost,French,mclaren,2,16,0,3,1,0,5,1,0.1999999999999886,29
+595,1984,10,brands_hatch,False,False,False,False,False,lauda,Austrian,mclaren,3,1,24,2,3,0,5,1,0.3999999999999915,35
+598,1984,10,brands_hatch,False,False,False,False,False,angelis,Italian,team_lotus,4,4,26,0,2,32,0,3,0.6999999999999886,26
+616,1984,10,brands_hatch,False,False,False,False,False,keke_rosberg,Finnish,williams,5,23,0,1,5,0,1,4,0.6999999999999886,35
+596,1984,10,brands_hatch,False,False,False,False,False,warwick,British,renault,6,2,13,0,7,21,0,6,0.7999999999999972,29
+597,1984,10,brands_hatch,False,False,False,False,False,senna,Brazilian,toleman,7,3,5,0,11,5,0,8,1.0,24
+610,1984,10,brands_hatch,False,False,False,False,False,mansell,British,team_lotus,8,17,6,0,10,32,0,3,1.5,30
+599,1984,10,brands_hatch,False,False,False,False,False,alboreto,Italian,ferrari,9,5,0,1,8,0,1,2,2.1999999999999886,27
+602,1984,10,brands_hatch,False,False,False,False,False,tambay,French,renault,10,8,8,0,9,21,0,6,2.1999999999999886,35
+615,1984,10,brands_hatch,False,False,False,False,False,manfred_winkelhock,German,ats,11,22,0,0,22,0,0,13,2.5,32
+611,1984,10,brands_hatch,False,False,False,False,False,boutsen,Belgian,arrows,12,18,3,0,17,3,0,9,2.5999999999999943,27
+600,1984,10,brands_hatch,False,False,False,False,False,arnoux,French,ferrari,13,6,23,0,4,0,1,2,3.0,36
+614,1984,10,brands_hatch,False,False,False,False,False,fabi,Italian,brabham,14,21,4,0,13,22,2,5,3.0999999999999943,29
+605,1984,10,brands_hatch,False,False,False,False,False,surer,Swiss,arrows,15,11,0,0,19,3,0,9,3.3999999999999915,32
+612,1984,10,brands_hatch,False,False,False,False,False,laffite,French,williams,16,19,5,0,12,0,1,4,3.6999999999999886,40
+606,1984,10,brands_hatch,False,False,False,False,False,patrese,Italian,alfa,17,12,3,0,15,6,0,7,3.6999999999999886,30
+618,1984,10,brands_hatch,False,False,False,False,False,cheever,American,alfa,18,25,3,0,14,6,0,7,3.6999999999999886,26
+604,1984,10,brands_hatch,False,False,False,False,False,cesaris,Italian,ligier,19,10,3,0,16,3,0,10,4.199999999999989,25
+608,1984,10,brands_hatch,False,False,False,False,False,hesnault,French,ligier,20,15,0,0,26,3,0,10,4.899999999999992,27
+603,1984,10,brands_hatch,False,False,False,False,False,ghinzani,Italian,osella,21,9,2,0,18,2,0,11,5.599999999999994,32
+607,1984,10,brands_hatch,False,False,False,False,False,rothengatter,Dutch,spirit,22,14,0,0,28,0,0,12,5.899999999999992,29
+613,1984,10,brands_hatch,False,False,False,False,False,palmer,British,ram,23,20,0,0,23,0,0,14,6.399999999999992,27
+619,1984,10,brands_hatch,False,False,False,False,False,alliot,French,ram,24,26,0,0,25,0,0,14,6.599999999999994,29
+617,1984,10,brands_hatch,False,False,False,False,False,johansson,Swedish,tyrrell,25,24,0,0,0,0,0,15,7.199999999999989,27
